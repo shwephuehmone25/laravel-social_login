@@ -19,6 +19,7 @@ Clone the repo locally:
 
 git clone https://github.com/ShwePhueHmone/laravel_social_login.git
 
+```
 `cd` into cloned directory and install dependencies. run below command one by one.
 ```bash
 
