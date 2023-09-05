@@ -24,7 +24,11 @@ git clone https://github.com/ShwePhueHmone/laravel_social_login.git
 ```bash
 
 composer install
+
+```
 cp .env.example .env
+
+```
 php artisan key:generate
 ```
 ### Configuration in `.env` file
